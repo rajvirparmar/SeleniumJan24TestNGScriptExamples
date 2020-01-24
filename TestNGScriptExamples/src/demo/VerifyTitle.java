@@ -11,6 +11,9 @@ import org.testng.annotations.Test;
 
 public class VerifyTitle {
 	
+	
+	//making changes - Jan 24 2020
+	
 	//in TestNG main method is not used and is 
 	//replaced by as annotations
 	// 3 annotations used are 
